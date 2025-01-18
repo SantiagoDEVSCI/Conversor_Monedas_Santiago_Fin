@@ -20,7 +20,7 @@
 ## Instrucciones de Uso  
 1. Clona el repositorio:  
    ```bash  
-   git clone https://github.com/SantiagoDEVSCI/conversor-de-monedas.git
+   git clone https://github.com/SantiagoDEVSCI/Conversor_Monedas_Santiago_Fin.git
 2. Inicia MainConverter.java.
 3. Ingresa la conversión deseada.
 4. Ingresa el valor a convertir.
