@@ -21,6 +21,7 @@
 1. Clona el repositorio:  
    ```bash  
    git clone https://github.com/SantiagoDEVSCI/Conversor_Monedas_Santiago_Fin.git
+1.1 Agregar libreria de Gson 2.11.1
 2. Inicia MainConverter.java.
 3. Ingresa la conversión deseada.
 4. Ingresa el valor a convertir.
