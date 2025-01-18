@@ -15,7 +15,7 @@
 ## Tecnologías Utilizadas  
 - JDK 21  
 - Gson 2.11.1  
-- API de tasas de cambio: [exchangeratesapi.io](https://exchangeratesapi.io/)
+- API de tasas de cambio: (https://www.exchangerate-api.com/)
 
 ## Instrucciones de Uso  
 1. Clona el repositorio:  
